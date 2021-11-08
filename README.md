@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep learning 
 - 🌱 I’m currently learning Deep RL
 - 💞️ I’m looking to collaborate on building a chess program
-- 📫 How to reach me email in repository
+-
 
 <!---
 adityamunshi29/adityamunshi29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
